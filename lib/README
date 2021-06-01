@@ -8,9 +8,12 @@ EJEMPLO GIT
 6. git log
 7. git commit --amend
 8. git checkout -b rama-heroes
+git branch
 9. git checkout master                              git merge nombre-rama
 10. git branch -d rama-heroes
 11. git remote add origin https://github.com/gustavolutino/prueba-git.git
 12. git branch -M main
 13. git push -u origin main
+
+14. git commit -am 
   
